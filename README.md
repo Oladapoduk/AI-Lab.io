@@ -1,4 +1,3 @@
-![image](https://github.com/Oladapoduk/AI-Lab.io/assets/97230768/6d5cbb24-f076-4b2c-a4ae-9f141dcc9dfc)# AI-Lab.io
 # Data Scientist
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, R
@@ -10,7 +9,7 @@
 
 ## Work Experience
 **Data scientist/Machine learning research Engineer (January 2023 -April 2023, United Kingdom)**
-•	Collaborated in the maintenance and development of reproducible data products and tools using statistical programming languages tailored for health data science.
+- Collaborated in the maintenance and development of reproducible data products and tools using statistical programming languages tailored for health data science.
 •	Leveraged innovative approaches to analyze and interpret complex epidemiological data, ensuring meticulous data quality and integrity.
 •	Used database queries to undertake comprehensive analysis, extracting insights from large health datasets and managing the full data lifecycle from extraction to visualization.
 •	Actively engaged in regular brainstorming sessions with colleagues across diverse fields, ensuring alignment with Health Protection Operations' objectives and promoting reproducible analytical pipelines.
