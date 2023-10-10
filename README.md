@@ -92,4 +92,3 @@ Presented a seminar on Evaluating the Integration of the Internet of Things (Wea
 -	Marouli, E., Yusuf, L., Kjaergaard, A. D., Omar, R., Kuś, A., Babajide, O., Sterenborg, R., Åsvold, B. O., Burgess, S., Ellervik, C., Teumer, A., Medici, M. & Deloukas, P. (2021) Thyroid Function and the Risk of Alzheimer's Disease: A Mendelian Randomization Study. Thyroid, 31 (12) December, pp. 1794–1799.
 -	O. Babajide et al.," A Machine Learning Approach to Short-term Body Weight Prediction in A Dietary Intervention Program. "International Conference on Computational Science, Amsterdam, Netherlands, 2020".
 -	O. Babajide et al., "Application of Unsupervised Learning in Weight-Loss Categorisation for Weight Management Programs," 2019 10th International Conference on Dependable Systems, Services and Technologies (DESSERT), Leeds, United Kingdom, 2019, pp. 94-101.
--
