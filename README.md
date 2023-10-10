@@ -1,12 +1,12 @@
 # AI-Lab.io
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, AWS, Snowflake, R
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Computer Science | The University of Texas at Dallas (_May 2021_)								       		
+- M.S., Telecommunication and internet Technologies	| University of Applied Science, Technikum, Vienna Austria (_December 2016_)	 			        		
+- B.S., Computer science with Economics | Obafemi Awolowo University (_May 2012_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
