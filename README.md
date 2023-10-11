@@ -49,7 +49,7 @@
 -	Increased classification performance by 20% by developing and hybridizing machine learning models for long-term health status predictions.
 -	Achieved over 80% accuracy in most models by conducting predictive analysis on health datasets for obesity management, using classification analysis with machine learning algorithms.
 
-**Data science insight analyst  @ Sonorys Technology GmbH(January 2015- August 2017, Austria)
+**Data science insight analyst  @ Sonorys Technology GmbH(January 2015- August 2017, Austria)**
 -	Boosted monthly cost revenue prediction by implementing and optimizing machine learning algorithms and  data visualization tools to create clear and engaging reports.
 -	Enhanced machine learning model accuracy by 30% using hyperparameter optimization, resulting in better business insights and outcomes for stakeholders.
 -	Led sales-price forecasting project using automated google sheets to streamline the process and increase efficiency.
@@ -68,6 +68,10 @@ The problem is to reduce the cost due to unnecessary repairs. So it is required 
 ### Sentiment analysis using Natural Language processing MLOPs/AIOPs-Project
 [Github](https://github.com/Oladapoduk/NLP-Project-Classification)
 "NLP Classification with MLFlow and DVC" is an innovative project that combines the power of natural language processing (NLP) and machine learning for text classification tasks. MLFlow, a versatile machine learning lifecycle management tool, is used to orchestrate the development and deployment of NLP models. Additionally, Data Version Control (DVC) is integrated into the workflow to efficiently manage and version control the large datasets typically associated with NLP tasks. This project aims to streamline the end-to-end process of training, tracking, and deploying NLP classification models, ensuring reproducibility and scalability while handling complex and evolving text data.
+
+### Sales Forecasting using Machine learning
+[Github](https://github.com/Oladapoduk/ROSS-MANSTORE-SALES)
+This project will be based on Cross-industry standard process for data mining (CRISP-DM). A standard idea about data science project may be linear: data preparation, modeling, evaluation and deployment. However, when we use CRISP-DM methodology a data science project become circle-like form. Even when it ends in Deployment, the project can restart again by Business Understanding. How might it help?This project will be based on Cross-industry standard process for data mining (CRISP-DM). A standard idea about data science project may be linear: data preparation, modeling, evaluation and deployment. However, when we use CRISP-DM methodology a data science project become circle-like form. Even when it ends in Deployment, the project can restart again by Business Understanding. How might it help?
 
 
 ## Talks & Lectures
