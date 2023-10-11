@@ -49,25 +49,23 @@
 -	Increased classification performance by 20% by developing and hybridizing machine learning models for long-term health status predictions.
 -	Achieved over 80% accuracy in most models by conducting predictive analysis on health datasets for obesity management, using classification analysis with machine learning algorithms.
 
-**Data Science Consultant @ Sonorys Technology GmbH(January 2015- August 2017, Austria)
+**Data science insight analyst  @ Sonorys Technology GmbH(January 2015- August 2017, Austria)
 -	Boosted monthly cost revenue prediction by implementing and optimizing machine learning algorithms and  data visualization tools to create clear and engaging reports.
 -	Enhanced machine learning model accuracy by 30% using hyperparameter optimization, resulting in better business insights and outcomes for stakeholders.
 -	Led sales-price forecasting project using automated google sheets to streamline the process and increase efficiency.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Kidney-Disease-Classification-Deep-Learning-Project
+[Github]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/Oladapoduk/Kidney-Disease-Classification-Deep-Learning-Project))
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+"Kidney Disease Classification with MLFlow" is a machine learning project focused on the development and deployment of a predictive model for diagnosing kidney diseases. MLFlow, a popular open-source platform for managing machine learning workflows, is utilized to streamline the model development process. This project leverages a dataset of kidney disease-related features to train and evaluate machine learning algorithms, ultimately creating a robust classification model. MLFlow's capabilities are harnessed for efficient model tracking, experimentation, and deployment, ensuring reproducibility and scalability in the development and deployment of this vital medical tool.
+### Sensor-Fault-Detection Project
+[Github]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/Oladapoduk/Kidney-Disease-Classification-Deep-Learning-Project))
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+In this project, the system in focus is the Air Pressure system (APS) which generates pressurized air that are utilized in various functions in a truck, such as braking and gear changes. 
+The datasets positive class corresponds to component failures for a specific component of the APS system. The negative class corresponds to trucks with failures for components not related to the APS system.
+The problem is to reduce the cost due to unnecessary repairs. So it is required to minimize the false predictions.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Talks & Lectures
 -	William Harvey Annual Conference August 2022
