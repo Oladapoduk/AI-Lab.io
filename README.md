@@ -8,7 +8,7 @@
 - B.S., Computer science with Economics | Obafemi Awolowo University (_May 2012_)
 
 ## Work Experience
-**Data scientist/Machine learning research Engineer (January 2023 -April 2023, United Kingdom)**
+**Data scientist/Machine learning research Engineer (April 2021 - October 2023, United Kingdom)**
 - Collaborated in the maintenance and development of reproducible data products and tools using statistical programming languages tailored for health data science.
 -	Leveraged innovative approaches to analyze and interpret complex epidemiological data, ensuring meticulous data quality and integrity.
 -	Used database queries to undertake comprehensive analysis, extracting insights from large health datasets and managing the full data lifecycle from extraction to visualization.
@@ -37,7 +37,7 @@
 -	Proactively manage project timelines and scope to ensure successful and timely project completion.
 -	Lead the data planning for data-driven evidence-based project to define metrics, KPIs and create full measurement frameworks.
 
-**Leeds Beckett University @ Balfour Beatty plc/ Leeds Beckett University (KTP) (November 2020- April 2021, United Kingdom)**
+**Leeds Beckett University @ Balfour Beatty plc/ Leeds Beckett University (KTP) (November 2020- March 2021, United Kingdom)**
 -	Designed and implemented plug-ins into Revit software (Building Information Modeling) using the .NET framework.
 -	Enhanced health hazard status prediction by developing and optimizing machine learning models such as Random Forest and Neural Networks.
 -	Created a comprehensive blueprint for hazard risk identification by using the system development life cycle.
