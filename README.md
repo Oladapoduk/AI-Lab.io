@@ -56,11 +56,11 @@
 
 ## Projects
 ### Kidney-Disease-Classification-Deep-Learning-Project
-[Github]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/Oladapoduk/Kidney-Disease-Classification-Deep-Learning-Project))
+[Github]((https://github.com/Oladapoduk/Kidney-Disease-Classification-Deep-Learning-Project))
 
 "Kidney Disease Classification with MLFlow" is a machine learning project focused on the development and deployment of a predictive model for diagnosing kidney diseases. MLFlow, a popular open-source platform for managing machine learning workflows, is utilized to streamline the model development process. This project leverages a dataset of kidney disease-related features to train and evaluate machine learning algorithms, ultimately creating a robust classification model. MLFlow's capabilities are harnessed for efficient model tracking, experimentation, and deployment, ensuring reproducibility and scalability in the development and deployment of this vital medical tool.
 ### Sensor-Fault-Detection Project
-[Github]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/Oladapoduk/Kidney-Disease-Classification-Deep-Learning-Project))
+[Github]((https://github.com/Oladapoduk/Kidney-Disease-Classification-Deep-Learning-Project))
 
 In this project, the system in focus is the Air Pressure system (APS) which generates pressurized air that are utilized in various functions in a truck, such as braking and gear changes. 
 The datasets positive class corresponds to component failures for a specific component of the APS system. The negative class corresponds to trucks with failures for components not related to the APS system.
