@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Airflow,Kafka R
+#### Technical Skills: Python,R,SQL, AWS, Airflow,Kafka
 
 ## Education
 - Ph.D., Computer Science | The University of Texas at Dallas (_May 2021_)								       		
