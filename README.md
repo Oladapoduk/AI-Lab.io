@@ -58,13 +58,14 @@
 ### Kidney-Disease-Classification-Deep-Learning-Project
 [Github](https://github.com/Oladapoduk/Kidney-Disease-Classification-Deep-Learning-Project)
 "Kidney Disease Classification with MLFlow" is a machine learning project focused on the development and deployment of a predictive model for diagnosing kidney diseases. MLFlow, a popular open-source platform for managing machine learning workflows, is utilized to streamline the model development process. This project leverages a dataset of kidney disease-related features to train and evaluate machine learning algorithms, ultimately creating a robust classification model. MLFlow's capabilities are harnessed for efficient model tracking, experimentation, and deployment, ensuring reproducibility and scalability in the development and deployment of this vital medical tool.
+
 ### Sensor-Fault-Detection Project
 [Github](https://github.com/Oladapoduk/Kidney-Disease-Classification-Deep-Learning-Project)
-
 In this project, the system in focus is the Air Pressure system (APS) which generates pressurized air that are utilized in various functions in a truck, such as braking and gear changes. 
 The datasets positive class corresponds to component failures for a specific component of the APS system. The negative class corresponds to trucks with failures for components not related to the APS system.
 The problem is to reduce the cost due to unnecessary repairs. So it is required to minimize the false predictions.
 
+### Sentiment analysis using Natural Language processing MLOPs/AIOPs-Project
 [Github]([https://github.com/Oladapoduk/Kidney-Disease-Classification-Deep-Learning-Project](https://github.com/Oladapoduk/NLP-Project-Classification))
 "NLP Classification with MLFlow and DVC" is an innovative project that combines the power of natural language processing (NLP) and machine learning for text classification tasks. MLFlow, a versatile machine learning lifecycle management tool, is used to orchestrate the development and deployment of NLP models. Additionally, Data Version Control (DVC) is integrated into the workflow to efficiently manage and version control the large datasets typically associated with NLP tasks. This project aims to streamline the end-to-end process of training, tracking, and deploying NLP classification models, ensuring reproducibility and scalability while handling complex and evolving text data.
 
