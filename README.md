@@ -67,13 +67,6 @@ The problem is to reduce the cost due to unnecessary repairs. So it is required 
 
 ### Sentiment analysis using Natural Language processing MLOPs/AIOPs-Project
 [Github](https://github.com/Oladapoduk/NLP-Project-Classification)
-In this project, the system in focus is the Air Pressure system (APS) which generates pressurized air that are utilized in various functions in a truck, such as braking and gear changes. 
-The datasets positive class corresponds to component failures for a specific component of the APS system. The negative class corresponds to trucks with failures for components not related to the APS system.
-The problem is to reduce the cost due to unnecessary repairs. So it is required to minimize the false predictions.
-
-
-### Sentiment analysis using Natural Language processing MLOPs/AIOPs-Project
-[Github](https://github.com/Oladapoduk/NLP-Project-Classification)
 "NLP Classification with MLFlow and DVC" is an innovative project that combines the power of natural language processing (NLP) and machine learning for text classification tasks. MLFlow, a versatile machine learning lifecycle management tool, is used to orchestrate the development and deployment of NLP models. Additionally, Data Version Control (DVC) is integrated into the workflow to efficiently manage and version control the large datasets typically associated with NLP tasks. This project aims to streamline the end-to-end process of training, tracking, and deploying NLP classification models, ensuring reproducibility and scalability while handling complex and evolving text data.
 
 
