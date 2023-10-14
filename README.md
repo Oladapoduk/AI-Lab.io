@@ -73,6 +73,19 @@ The problem is to reduce the cost due to unnecessary repairs. So it is required 
 [Github](https://github.com/Oladapoduk/ROSS-MANSTORE-SALES)
 This project will be based on Cross-industry standard process for data mining (CRISP-DM). A standard idea about data science project may be linear: data preparation, modeling, evaluation and deployment. However, when we use CRISP-DM methodology a data science project become circle-like form. Even when it ends in Deployment, the project can restart again by Business Understanding. How might it help?This project will be based on Cross-industry standard process for data mining (CRISP-DM). A standard idea about data science project may be linear: data preparation, modeling, evaluation and deployment. However, when we use CRISP-DM methodology a data science project become circle-like form. Even when it ends in Deployment, the project can restart again by Business Understanding. How might it help?
 
+### Stock Market Kafka Data Engineering-Project
+[Github](https://github.com/Oladapoduk/Oladapoduk-stock-market-kafka-data-engineering-project)
+Project Description
+Executed a comprehensive End-to-End Data Engineering Project involving real-time stock market data using Apache Kafka. Leveraged a stack of diverse technologies including Python, Amazon Web Services (AWS), Apache Kafka, AWS Glue, Athena, and SQL for seamless project execution.
+Programming Languages: Python
+Cloud Services: Amazon Web Services (AWS)
+S3 (Simple Storage Service)
+Athena
+Glue Crawler
+Glue Catalog
+EC2 (Elastic Compute Cloud)
+Streaming Platform: Apache Kafka
+
 
 ## Talks & Lectures
 -	William Harvey Annual Conference August 2022
