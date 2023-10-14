@@ -30,6 +30,11 @@ Glue Catalog
 EC2 (Elastic Compute Cloud)
 Streaming Platform: Apache Kafka
 
+### Data Engineering YouTube Analysis -Project
+[Github](https://github.com/Oladapoduk/Youtube-data-engineering)
+Project Description
+The project focuses on the efficient management and analysis of YouTube video data, categorized by trends and metrics. Key goals include creating a data ingestion mechanism, transforming raw data through an ETL system, establishing a centralized data repository (Data Lake), ensuring scalability, and leveraging AWS for large-scale data processing. Essential AWS services used include Amazon S3 for storage, AWS IAM for access management, QuickSight for BI insights, AWS Glue for data integration, AWS Lambda for serverless computing, and AWS Athena for S3 queries.
+
 # Data Scientist
 
 #### Technical Skills: Python,R,SQL, AWS, Airflow,Kafka
