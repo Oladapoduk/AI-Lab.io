@@ -1,3 +1,35 @@
+## Projects
+### Kidney-Disease-Classification-Deep-Learning-Project
+[Github](https://github.com/Oladapoduk/Kidney-Disease-Classification-Deep-Learning-Project)
+"Kidney Disease Classification with MLFlow" is a machine learning project focused on the development and deployment of a predictive model for diagnosing kidney diseases. MLFlow, a popular open-source platform for managing machine learning workflows, is utilized to streamline the model development process. This project leverages a dataset of kidney disease-related features to train and evaluate machine learning algorithms, ultimately creating a robust classification model. MLFlow's capabilities are harnessed for efficient model tracking, experimentation, and deployment, ensuring reproducibility and scalability in the development and deployment of this vital medical tool.
+
+### Sensor-Fault-Detection Project
+[Github](https://github.com/Oladapoduk/sensor-fault-detection)
+In this project, the system in focus is the Air Pressure system (APS) which generates pressurized air that are utilized in various functions in a truck, such as braking and gear changes. 
+The datasets positive class corresponds to component failures for a specific component of the APS system. The negative class corresponds to trucks with failures for components not related to the APS system.
+The problem is to reduce the cost due to unnecessary repairs. So it is required to minimize the false predictions.
+
+### Sentiment analysis using Natural Language processing MLOPs/AIOPs-Project
+[Github](https://github.com/Oladapoduk/NLP-Project-Classification)
+"NLP Classification with MLFlow and DVC" is an innovative project that combines the power of natural language processing (NLP) and machine learning for text classification tasks. MLFlow, a versatile machine learning lifecycle management tool, is used to orchestrate the development and deployment of NLP models. Additionally, Data Version Control (DVC) is integrated into the workflow to efficiently manage and version control the large datasets typically associated with NLP tasks. This project aims to streamline the end-to-end process of training, tracking, and deploying NLP classification models, ensuring reproducibility and scalability while handling complex and evolving text data.
+
+### Sales Forecasting using Machine learning
+[Github](https://github.com/Oladapoduk/ROSS-MANSTORE-SALES)
+This project will be based on Cross-industry standard process for data mining (CRISP-DM). A standard idea about data science project may be linear: data preparation, modeling, evaluation and deployment. However, when we use CRISP-DM methodology a data science project become circle-like form. Even when it ends in Deployment, the project can restart again by Business Understanding. How might it help?This project will be based on Cross-industry standard process for data mining (CRISP-DM). A standard idea about data science project may be linear: data preparation, modeling, evaluation and deployment. However, when we use CRISP-DM methodology a data science project become circle-like form. Even when it ends in Deployment, the project can restart again by Business Understanding. How might it help?
+
+### Stock Market Kafka Data Engineering-Project
+[Github](https://github.com/Oladapoduk/Oladapoduk-stock-market-kafka-data-engineering-project)
+Project Description
+Executed a comprehensive End-to-End Data Engineering Project involving real-time stock market data using Apache Kafka. Leveraged a stack of diverse technologies including Python, Amazon Web Services (AWS), Apache Kafka, AWS Glue, Athena, and SQL for seamless project execution.
+Programming Languages: Python
+Cloud Services: Amazon Web Services (AWS)
+S3 (Simple Storage Service)
+Athena
+Glue Crawler
+Glue Catalog
+EC2 (Elastic Compute Cloud)
+Streaming Platform: Apache Kafka
+
 # Data Scientist
 
 #### Technical Skills: Python,R,SQL, AWS, Airflow,Kafka
@@ -53,38 +85,6 @@
 -	Boosted monthly cost revenue prediction by implementing and optimizing machine learning algorithms and  data visualization tools to create clear and engaging reports.
 -	Enhanced machine learning model accuracy by 30% using hyperparameter optimization, resulting in better business insights and outcomes for stakeholders.
 -	Led sales-price forecasting project using automated google sheets to streamline the process and increase efficiency.
-
-## Projects
-### Kidney-Disease-Classification-Deep-Learning-Project
-[Github](https://github.com/Oladapoduk/Kidney-Disease-Classification-Deep-Learning-Project)
-"Kidney Disease Classification with MLFlow" is a machine learning project focused on the development and deployment of a predictive model for diagnosing kidney diseases. MLFlow, a popular open-source platform for managing machine learning workflows, is utilized to streamline the model development process. This project leverages a dataset of kidney disease-related features to train and evaluate machine learning algorithms, ultimately creating a robust classification model. MLFlow's capabilities are harnessed for efficient model tracking, experimentation, and deployment, ensuring reproducibility and scalability in the development and deployment of this vital medical tool.
-
-### Sensor-Fault-Detection Project
-[Github](https://github.com/Oladapoduk/sensor-fault-detection)
-In this project, the system in focus is the Air Pressure system (APS) which generates pressurized air that are utilized in various functions in a truck, such as braking and gear changes. 
-The datasets positive class corresponds to component failures for a specific component of the APS system. The negative class corresponds to trucks with failures for components not related to the APS system.
-The problem is to reduce the cost due to unnecessary repairs. So it is required to minimize the false predictions.
-
-### Sentiment analysis using Natural Language processing MLOPs/AIOPs-Project
-[Github](https://github.com/Oladapoduk/NLP-Project-Classification)
-"NLP Classification with MLFlow and DVC" is an innovative project that combines the power of natural language processing (NLP) and machine learning for text classification tasks. MLFlow, a versatile machine learning lifecycle management tool, is used to orchestrate the development and deployment of NLP models. Additionally, Data Version Control (DVC) is integrated into the workflow to efficiently manage and version control the large datasets typically associated with NLP tasks. This project aims to streamline the end-to-end process of training, tracking, and deploying NLP classification models, ensuring reproducibility and scalability while handling complex and evolving text data.
-
-### Sales Forecasting using Machine learning
-[Github](https://github.com/Oladapoduk/ROSS-MANSTORE-SALES)
-This project will be based on Cross-industry standard process for data mining (CRISP-DM). A standard idea about data science project may be linear: data preparation, modeling, evaluation and deployment. However, when we use CRISP-DM methodology a data science project become circle-like form. Even when it ends in Deployment, the project can restart again by Business Understanding. How might it help?This project will be based on Cross-industry standard process for data mining (CRISP-DM). A standard idea about data science project may be linear: data preparation, modeling, evaluation and deployment. However, when we use CRISP-DM methodology a data science project become circle-like form. Even when it ends in Deployment, the project can restart again by Business Understanding. How might it help?
-
-### Stock Market Kafka Data Engineering-Project
-[Github](https://github.com/Oladapoduk/Oladapoduk-stock-market-kafka-data-engineering-project)
-Project Description
-Executed a comprehensive End-to-End Data Engineering Project involving real-time stock market data using Apache Kafka. Leveraged a stack of diverse technologies including Python, Amazon Web Services (AWS), Apache Kafka, AWS Glue, Athena, and SQL for seamless project execution.
-Programming Languages: Python
-Cloud Services: Amazon Web Services (AWS)
-S3 (Simple Storage Service)
-Athena
-Glue Crawler
-Glue Catalog
-EC2 (Elastic Compute Cloud)
-Streaming Platform: Apache Kafka
 
 
 ## Talks & Lectures
