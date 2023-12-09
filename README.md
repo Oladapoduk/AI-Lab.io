@@ -45,7 +45,7 @@ The project focuses on the efficient management and analysis of YouTube video da
 #### Technical Skills: Python,R,SQL, AWS, Airflow,Kafka
 
 ## Education
-- Ph.D., Computer Science | The University of Texas at Dallas (_May 2021_)								       		
+- Ph.D., Computer Science | Leeds Beckett University (_May 2021_)								       		
 - M.S., Telecommunication and internet Technologies	| University of Applied Science, Technikum, Vienna Austria (_December 2016_)	 			        		
 - B.S., Computer science with Economics | Obafemi Awolowo University (_May 2012_)
 
