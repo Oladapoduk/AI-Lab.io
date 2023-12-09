@@ -35,6 +35,11 @@ Streaming Platform: Apache Kafka
 Project Description
 The project focuses on the efficient management and analysis of YouTube video data, categorized by trends and metrics. Key goals include creating a data ingestion mechanism, transforming raw data through an ETL system, establishing a centralized data repository (Data Lake), ensuring scalability, and leveraging AWS for large-scale data processing. Essential AWS services used include Amazon S3 for storage, AWS IAM for access management, QuickSight for BI insights, AWS Glue for data integration, AWS Lambda for serverless computing, and AWS Athena for S3 queries.
 
+### LangChain App-Large Language Modelling Project
+[Github]((https://github.com/Oladapoduk/ask-multiple-pdfs))
+"The MultiPDF Chat App is a Python-based application designed to facilitate discussions with multiple PDF documents. Users can engage in natural language conversations and pose questions regarding the content of these PDFs. The application leverages a sophisticated language model to furnish precise and contextually appropriate responses to user inquiries. It is essential to recognize that the application's responsiveness is contingent upon the relevance of the questions posed to the loaded PDFs, as it is specifically tailored to address queries related to these documents".
+
+
 # Data Scientist
 
 #### Technical Skills: Python,R,SQL, AWS, Airflow,Kafka
